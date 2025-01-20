@@ -173,12 +173,12 @@
     cosmjs-types "^0.9.0"
     jose "^5.1.3"
 
-"@burnt-labs/constants@0.1.0-alpha.14", "@burnt-labs/constants@^0.1.0":
+"@burnt-labs/constants@0.1.0-alpha.14", "@burnt-labs/constants@^0.1.0-alpha.14":
   version "0.1.0-alpha.14"
   resolved "https://registry.yarnpkg.com/@burnt-labs/constants/-/constants-0.1.0-alpha.14.tgz#08eec8359e8e84deffcdce74b14f4044a26055c7"
   integrity sha512-ChaVXdHOgMHvtTDXNPTYMKwP0W6tLCpKuJXadeLfFQzJCd3K9DoxG6JZxzrVBq2FXVJGFUvRy4I+0uD1HvZfow==
 
-"@burnt-labs/signers@0.1.0-alpha.13", "@burnt-labs/signers@^0.1.0":
+"@burnt-labs/signers@0.1.0-alpha.13", "@burnt-labs/signers@^0.1.0-alpha.13":
   version "0.1.0-alpha.13"
   resolved "https://registry.yarnpkg.com/@burnt-labs/signers/-/signers-0.1.0-alpha.13.tgz#cb38d9e2ad0c6b88854ba0e620c009140c2c873d"
   integrity sha512-89O2oWpR+qvZs13vDB1aibp0FkkPEQf9NUVwVe/pN/JnuhPKWW4a1rUB6/qEkcEAMkQFsT7hyaqhRzx2hbfC6Q==
@@ -198,7 +198,7 @@
     cosmjs-types "^0.9.0"
     stytch "^9.0.6"
 
-"@burnt-labs/ui@0.1.0-alpha.15", "@burnt-labs/ui@^0.1.2":
+"@burnt-labs/ui@0.1.0-alpha.15", "@burnt-labs/ui@^0.1.0-alpha.15":
   version "0.1.0-alpha.15"
   resolved "https://registry.yarnpkg.com/@burnt-labs/ui/-/ui-0.1.0-alpha.15.tgz#767396112b7981cfe2aa18ba5a8cb5feefbc2781"
   integrity sha512-4N4BaBqLLD6IxAMOTnUHpYLhaB/cl5OniQfuDzM/ArU8YsmGFo8xrn5pyTIzJsAb6HqeZM9pxoQ3LKEXhelspQ==
@@ -1865,17 +1865,17 @@
   resolved "https://registry.yarnpkg.com/@tabler/icons/-/icons-3.28.1.tgz#271e6d4107525dbb8622a36a9414487e734606aa"
   integrity sha512-h7nqKEvFooLtFxhMOC1/2eiV+KRXhBUuDUUJrJlt6Ft6tuMw2eU/9GLQgrTk41DNmIEzp/LI83K9J9UUU8YBYQ==
 
-"@tanstack/query-core@5.64.1":
-  version "5.64.1"
-  resolved "https://registry.yarnpkg.com/@tanstack/query-core/-/query-core-5.64.1.tgz#d56e26b3e29fc68a89d140f1fd92900bc8f3fc86"
-  integrity sha512-978Wx4Wl4UJZbmvU/rkaM9cQtXXrbhK0lsz/UZhYIbyKYA8E4LdomTwyh2GHZ4oU0BKKoDH4YlKk2VscCUgNmg==
+"@tanstack/query-core@5.64.2":
+  version "5.64.2"
+  resolved "https://registry.yarnpkg.com/@tanstack/query-core/-/query-core-5.64.2.tgz#be06e7c7966d14ea3e7c82bea1086b463f2f6809"
+  integrity sha512-hdO8SZpWXoADNTWXV9We8CwTkXU88OVWRBcsiFrk7xJQnhm6WRlweDzMD+uH+GnuieTBVSML6xFa17C2cNV8+g==
 
 "@tanstack/react-query@^5.45.1":
-  version "5.64.1"
-  resolved "https://registry.yarnpkg.com/@tanstack/react-query/-/react-query-5.64.1.tgz#46b4182f5b045299e4be8d0a91c549ac5dc0a20c"
-  integrity sha512-vW5ggHpIO2Yjj44b4sB+Fd3cdnlMJppXRBJkEHvld6FXh3j5dwWJoQo7mGtKI2RbSFyiyu/PhGAy0+Vv5ev9Eg==
+  version "5.64.2"
+  resolved "https://registry.yarnpkg.com/@tanstack/react-query/-/react-query-5.64.2.tgz#199c8a5a8ff92a8565f8cdd378747398347512a2"
+  integrity sha512-3pakNscZNm8KJkxmovvtZ4RaXLyiYYobwleTMvpIGUoKRa8j8VlrQKNl5W8VUEfVfZKkikvXVddLuWMbcSCA1Q==
   dependencies:
-    "@tanstack/query-core" "5.64.1"
+    "@tanstack/query-core" "5.64.2"
 
 "@types/d3-array@^3.0.3":
   version "3.2.1"
@@ -2790,9 +2790,9 @@ camelize@^1.0.0:
   integrity sha512-dU+Tx2fsypxTgtLoE36npi3UqcjSSMNYfkqgmoEhtZrraP5VWq0K7FkWVTYa8eMPtnU/G2txVsfdCJTn9uzpuQ==
 
 caniuse-lite@^1.0.30001579:
-  version "1.0.30001692"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001692.tgz#4585729d95e6b95be5b439da6ab55250cd125bf9"
-  integrity sha512-A95VKan0kdtrsnMubMKxEKUKImOPSuCpYgxSQBo036P5YYgVIcOYJEgt/txJWqObiRQeISNCfef9nvlQ0vbV7A==
+  version "1.0.30001695"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001695.tgz#39dfedd8f94851132795fdf9b79d29659ad9c4d4"
+  integrity sha512-vHyLade6wTgI2u1ec3WQBxv+2BrTERV28UXQu9LO6lZ9pYeMk34vjXFLOxo1A4UBA8XTL4njRQZdno/yYaSmWw==
 
 "cbw-sdk@npm:@coinbase/wallet-sdk@3.9.3":
   version "3.9.3"
@@ -4040,9 +4040,9 @@ get-symbol-description@^1.1.0:
     get-intrinsic "^1.2.6"
 
 get-tsconfig@^4.7.5:
-  version "4.8.1"
-  resolved "https://registry.yarnpkg.com/get-tsconfig/-/get-tsconfig-4.8.1.tgz#8995eb391ae6e1638d251118c7b56de7eb425471"
-  integrity sha512-k9PN+cFBmaLWtVz29SkUoqU5O0slLuHJXt/2P+tMVFT+phsSGXGkp9t3rQIqdz0e+06EHNGs3oM6ZX1s2zHxRg==
+  version "4.9.0"
+  resolved "https://registry.yarnpkg.com/get-tsconfig/-/get-tsconfig-4.9.0.tgz#704ae2ce2a94935921675dd19c05508b713a405d"
+  integrity sha512-52n24W52sIueosRe0XZ8Ex5Yle+WbhfCKnV/gWXpbVR8FXNTfqdKEKUSypKso66VRHTvvcQxL44UTZbJRlCTnw==
   dependencies:
     resolve-pkg-maps "^1.0.0"
 
@@ -6618,9 +6618,9 @@ victory-vendor@^36.6.8:
     d3-timer "^3.0.1"
 
 viem@2.x, viem@^2.1.1:
-  version "2.22.9"
-  resolved "https://registry.yarnpkg.com/viem/-/viem-2.22.9.tgz#14ddb7f1ccf900784e347e1aa157e8e58043b0c2"
-  integrity sha512-2yy46qYhcdo8GZggQ3Zoq9QCahI0goddzpVI/vSnTpcClQBSDxYRCuAqRzzLqjvJ7hS0UYgplC7eRkM2sYgflw==
+  version "2.22.10"
+  resolved "https://registry.yarnpkg.com/viem/-/viem-2.22.10.tgz#64fdfdc6ded7e9f372da0caf30f781aca517b24a"
+  integrity sha512-amYq+bxD3k9gUx4JXzKtpKrnw1Mc3f4s32g6Axo8twpum+47r+9M2g+qh63gzrs0goTTVUsmg3n9ev+zELKRDw==
   dependencies:
     "@noble/curves" "1.7.0"
     "@noble/hashes" "1.6.1"
